@@ -1,0 +1,48 @@
+.wrapper {
+    margin: 5px;
+}
+
+.basketball {
+    width: 150px;
+    height: 150px;
+    border: solid 1px black;
+    background-color: yellow;
+    border-radius: 75px;
+    margin-left: 750px;
+    margin-top: 229px;
+}
+
+.p-stem {
+    width: 100px;
+    height: 250px;
+    transform: skew(-20deg);
+    border: solid 1px black;
+    border-radius: 0 3px 3px 3px;
+    z-index: -1;
+    position: relative;
+    margin-left: 700px;
+    top: -164px;
+    background-color: #021f4f;
+}
+
+.p-body {
+    width: 175px;
+    height: 188px;
+    border-radius: 0 90px 90px 0;
+    z-index: -1;
+    position: relative;
+    margin-left: 746px;
+    top: -420px;
+    background-color: #021f4f;
+    
+    
+}
+
+#basketball1
+{
+  position: relative;
+  top: -606px;
+  margin-left: 709px;
+  height: 165px;
+  border: hidden;
+}
